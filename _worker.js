@@ -2631,7 +2631,7 @@ const renderErrorPage = (message, error, refer) => {
 
     <body>
         <div id="error-container">
-            <h1>BPB Panel <span style="font-size: smaller;">${panelVersion}</span> 💦</h1>
+            <h1>No1 Panel <span style="font-size: smaller;">${panelVersion}</span> 💦</h1>
             <div id="error-message">
                 <h2>${message} ${refer 
                     ? 'Please try again or refer to <a href="https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/README.md">documents</a>' 
